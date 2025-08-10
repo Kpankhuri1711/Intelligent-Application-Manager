@@ -1,0 +1,14 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-08-07T04:31:45.643Z",
+      "level": "INFO",
+      "message": "Logs cleared by user on 2025-08-07T04:31:45.643Z"
+    },
+    {
+      "timestamp": "2025-08-07T04:48:06.169Z",
+      "level": "INFO",
+      "message": "Starting similar files analysis for: C:\\"
+    }
+  ]
+}
